@@ -11,7 +11,7 @@ This article will help users properly configure their Java settings to connect t
 
 ### Prerequisites
 * Must have log on rights to appliance or application
-* Windows with IE, Chrome, or Firefox installed
+* Windows with IE
 * Applicable Ports open for the Web UI from your location to the RNAP IP of the Netscaler
 
 ### Detailed Steps
